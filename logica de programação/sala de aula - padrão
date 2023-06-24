@@ -1,6 +1,6 @@
-O professor descobriu que os alunos haviam trocado de lugar, pelo padrão pré estabelecido por ele de que cada fileira deveria possuir,
-alternando entre Português(P) e Matemática(M) neste caso, 4 de um e 2 do outro grupo de alunos. sendo assim, na primeira fileira,
-da esquerda para a direita, 4 Português(P) e 2 Matemática(M). Na segunda, 4 Matemática(M) e 2 Português(P) e assim por diante.
-checar que na 5º fileira, de cima para baixo, havia 3 Matemática(M) e 3 Português(P) e na 6º havia o mesmo número de Português(P) 
-e Matemática(M) que na fileira anterior, Percebeu que existia um erro de padrão pré estabelecido por ele, assim decobriu que os 
-alunos haviam trocado de lugar.      
+O professor descobriu que os alunos haviam trocado de lugar, pelo padrão pré estabelecido por ele de que cada fileira deveria 
+possuir,alternando entre Português(P) e Matemática(M) neste caso, 4 de um e 2 do outro grupo de alunos. 
+sendo assim, na primeira fileira, da esquerda para a direita, 4 Português(P) e 2 Matemática(M). Na segunda, 4 Matemática(M)
+e 2 Português(P) e assim por diante. checar que na 5º fileira, de cima para baixo, havia 3 Matemática(M) e 3 Português(P) e
+na 6º havia o mesmo número de Português(P) e Matemática(M) que na fileira anterior, Percebeu que existia um erro de padrão 
+pré estabelecido por ele, assim decobriu que os alunos haviam trocado de lugar.      
