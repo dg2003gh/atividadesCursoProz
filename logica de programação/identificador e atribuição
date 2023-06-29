@@ -1,0 +1,20 @@
+A disposição dos elementos varia de acordo com a linguagem, mas todos seguindo uma lógica parecida. Portanto uma das formas possíveis de ser é a seguinte:
+
+Normalmente a maioria das linguages usam o simbolo de igual( = ) para fazer a atribuição de variáveis. Como no seguinte exemplo na linguagem GDSCRIPT:
+
+# GDSCRIPT 
+var nome: String = 'José Almeida da Silva'
+var cpf: Int = 12345678900
+var rg: Int = 9517530
+var altura: float = 1,78
+var endereço: String = 'Rua A, 380 - Centro - Recife/PE' 
+
+usando como base o video desse módulo:
+
+- Nome: José Almeida da Silva - carácteres
+- CPF: 12345678900 - inteiro
+- RG: 9517530 - inteiro
+- Altura: 1,78 - Real
+- Endereço: Rua A, 380 – Centro – Recife/PE - Carácteres
+
+
