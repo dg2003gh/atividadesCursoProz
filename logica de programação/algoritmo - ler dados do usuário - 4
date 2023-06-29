@@ -1,0 +1,18 @@
+
+var nome: caracteres
+var endereço: caracteres
+var cidade: caracteres
+var cpf: inteiro
+var rg: inteiro
+
+nome = leia("Informe seu nome:");
+escreva("O meu nome é: ", nome)
+endereço = leia("Informe seu endereço: ");
+escreva("O meu endereço é: ", endereço)
+cidade = leia("Informe sua cidade: ");
+escreva("A minha cidade é: ", cidade)
+cpf = escreva("Informe seu CPF: ");
+escreva("O meu CPF é: ", cpf)
+rg = escreva("Informe seu RG: ");
+escreva("O meu RG é: ", rg)
+
