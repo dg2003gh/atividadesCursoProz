@@ -1,0 +1,24 @@
+numPessoas: inteiro
+é_fumante: logico
+tem_pets: logico
+
+
+Inicio
+
+escreva("Você é um fumante?")
+leia(é_fumante)
+
+escreva("Você está acompanhado com pets ? ")
+leia(tem_pets)
+
+Se (é_fumantes == verdadeiro) ou (tem_pets == verdadeiro) entao;
+	escreva("Vocês serão alocados na área externa: ")
+Senao:
+	escreva("Voces estão em quantas pessoas? ")
+	leia(numPessoas)
+	Se (numPessoas >= 5) entao;
+		escreva("Vocês serão alocados no primeiro andar;")
+	Senao:
+		escreva("Vocês serão realocados no terreo: ")
+fimse
+	fimse
