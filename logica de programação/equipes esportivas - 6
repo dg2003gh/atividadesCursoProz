@@ -1,0 +1,13 @@
+var
+nomeEquipe: caracteres
+contador: inteiro
+início
+escreva (“Qual o nome da equipe?”)
+leia (“nomeEquipe”)
+contator = 1
+enquanto (contador <= 5) faça;
+	escreva (“nomeEquipe - ”, contador)
+	contador <- contador + 1
+fimenquanto
+fim
+

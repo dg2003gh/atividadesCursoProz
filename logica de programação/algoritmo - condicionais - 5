@@ -1,3 +1,4 @@
+var
 numPessoas: inteiro
 é_fumante: logico
 tem_pets: logico
