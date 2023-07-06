@@ -16,22 +16,25 @@ while True:
                 
                 #condições
                 if quantidade_de_rodas <= 3:
-                    print(f'Um veículo com {quantidade_de_rodas} rodas, {peso_bruto}KG e que acomoda {pessoas_veiculo} pessoas se enquadra na categoria A.')
+                    categoria = 'se enquadra na categoria  A'
                     
                 elif quantidade_de_rodas == 4 and pessoas_veiculo <= 8 and peso_bruto <= 3500:
-                    print(f'Um veículo com {quantidade_de_rodas} rodas, {peso_bruto}KG e que acomoda {pessoas_veiculo} pessoas se enquadra na categoria B.')
+                    categoria = 'se enquadra na categoria B'
                     
                 elif quantidade_de_rodas >= 4 and  3500 <= peso_bruto <= 6000:
-                    print(f'Um veículo com {quantidade_de_rodas} rodas, {peso_bruto}KG e que acomoda {pessoas_veiculo} pessoas se enquadra na categoria C.')
+                    categoria = 'se enquadra na categoria C'
                     
                 elif quantidade_de_rodas >= 4 and  pessoas_veiculo > 8:
-                    print(f'Um veículo com {quantidade_de_rodas} rodas, {peso_bruto}KG e que acomoda {pessoas_veiculo} pessoas se enquadra na categoria D.')
+                    categoria = 'se enquadra na categoria D'
                     
                 elif quantidade_de_rodas >= 4 and  peso_bruto > 6000:
-                    print(f'Um veículo com {quantidade_de_rodas} rodas, {peso_bruto}KG e que acomoda {pessoas_veiculo} pessoas se enquadra na categoria E.')   
+                    categoria = 'se enquadra na categoria E'
                 else:
-                    print(f'Um veículo com {quantidade_de_rodas} rodas, {peso_bruto}KG e que acomoda {pessoas_veiculo} pessoas não se enquadra em nenhuma categoria.')
-            
+                    categoria = 'não se enquadra em nenhuma categoria.'
+                
+                
+                print(f'Um veículo com {quantidade_de_rodas} rodas, {peso_bruto}KG e que acomoda {pessoas_veiculo} pessoas {categoria}.')
+                
         # tratar se continua ou não no programa
         continuar = input('Deseja consultar outro veículo?').lower()
         
