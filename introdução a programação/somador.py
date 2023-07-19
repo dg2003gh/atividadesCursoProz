@@ -7,6 +7,7 @@ def calculadora(num1, num2, operacao):
         resultado = num1 * num2
     elif operacao == "divisão":
         resultado = num1 / num2
+    else: resultado = 0
 
     return resultado
 
