@@ -1,0 +1,26 @@
+div {
+  background-color: gray;
+}
+
+h1 {
+  color: black;
+}
+
+p {
+  color: blue;
+}
+
+.caixa {
+  display: flex;
+  border: 5px solid;
+  margin: 50px;
+  padding: 50px;
+}
+
+.caixa1 {
+  border-color: brown;
+}
+
+.caixa2 {
+  border-color: aqua;
+}
