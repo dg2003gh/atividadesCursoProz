@@ -1,0 +1,50 @@
+body {
+  background-color: blanchedalmond;
+}
+
+.c-main-header {
+  background-color: black;
+  margin: 2px auto;
+  border-radius: 50px;
+}
+
+nav ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+nav ul li,
+nav ul li a {
+  display: inherit;
+  list-style: none;
+  text-decoration: none;
+  padding: 5px;
+  color: aliceblue;
+}
+
+section {
+  background-color: burlywood;
+  margin: 15px;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.c-images-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.u-images {
+  margin: 5px auto;
+  border-radius: 20px;
+}
+
+.c-main-footer {
+  background-color: black;
+  color: white;
+  margin-top: 20px;
+  padding: 20px;
+  text-align: center;
+  border-radius: 15px;
+}
