@@ -1,0 +1,1 @@
+Auto Rename Tag é uma extensão do Vscode que nos permite alterar a tag de fechamento junto com a de abertura, ou vice-versa, de um arquivo HTML/XML, facilitando a alteração desses arquivos.
