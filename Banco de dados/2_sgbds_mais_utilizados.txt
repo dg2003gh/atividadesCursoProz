@@ -1,0 +1,7 @@
+1 – ORACLE DATABASE
+
+O Oracle Database surgiu no final dos anos 70 e atualmente, de acordo com o site db-engines, é o SGBD mais utilizado do mundo.
+
+2 - MARIADB
+
+Teve sua primeira versão em 2009. O MariaDB é um sistema de gerenciamento de banco de dados que surgiu como fork do MySQL, criado pelo próprio fundador do projeto após sua aquisição pela Oracle. O nome Maria DB vem do nome da 2ª filha do criador do MySQL, que se chamava Maria.
