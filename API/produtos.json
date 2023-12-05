@@ -1,0 +1,29 @@
+[
+  {
+    "id": "202301891-12",
+    "nome": "Biscoito de polvilho",
+    "marca": "Cassini",
+    "categoria": "Alimentos",
+    "preço": 2.5,
+    "quantidadeEmEstoque": 1201,
+    "disponivelParaEntrega": true
+  },
+  {
+    "id": "202358634-23",
+    "nome": "Microfone",
+    "marca": "fifine",
+    "categoria": "Áudio",
+    "preço": 250,
+    "quantidadeEmEstoque": 200,
+    "disponivelParaEntrega": true
+  },
+  {
+    "id": "202398765-42",
+    "nome": "Notebook i7",
+    "marca": "Dell",
+    "categoria": "Computadores e notebooks",
+    "preço": 5400.5,
+    "quantidadeEmEstoque": 5,
+    "disponivelParaEntrega": false
+  }
+]
